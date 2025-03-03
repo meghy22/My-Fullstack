@@ -1,0 +1,14 @@
+my-fullstack-app/
+│
+├── server/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   └── server.js
+│
+├── client/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+│
+└── package.json
